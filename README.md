@@ -5,30 +5,16 @@
 <br>
 
 > #### me
-> arquiteto frustrado, 30 anos e estudando análise e desenvolvimento de sistemas na FIAP. a meta é me tornar um **fullstack developer**.
-
-<br>
-<br>
-
-> ### working
-> codando o Colabora, meu app de finanças. stacks:
-> - Java
-> - Javascript
-> - Bootstrap
+> desenvolvedor de software, 31 anos e estudando análise e desenvolvimento de sistemas na FIAP. a meta é me tornar um **fullstack developer**.
 
 <br>
 <br>
 
 > #### learning
-> Java\
-> SQL\
-> Javascript
-
-<br>
-<br>
-
-> #### projects
-> [**Colabora**](https://github.com/offneves/colabora)
+> Java - Always\
+> MongoDB\
+> Microservices/
+> React
 
 <br>
 <br>
