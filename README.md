@@ -5,15 +5,15 @@
 <br>
 
 > #### me
-> desenvolvedor de software, 31 anos e estudando análise e desenvolvimento de sistemas na FIAP. a meta é me tornar um **fullstack developer**.
+> desenvolvedor de software, 31 anos, **fullstack developer**.
 
 <br>
 <br>
 
-> #### learning
+> #### stacks
 > Java - Always\
 > MongoDB\
-> Microservices\
+> PostgresSQL
 > React
 
 <br>
