@@ -13,7 +13,7 @@
 > #### stacks
 > Java - Always\
 > MongoDB\
-> PostgresSQL
+> PostgresSQL\
 > React
 
 <br>
